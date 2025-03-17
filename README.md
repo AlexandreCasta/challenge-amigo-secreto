@@ -14,5 +14,6 @@ ONE - Oracle Next Education, aplicado por Alura (1º semestre de 2025).</p>
 
 #### Autor
 
-![Alexandre Castanheira](https://github.com/AlexandreCasta/jogo-numero-secreto/blob/main/Ale_Lab.jpg)
-Alexandre Castanheira
+![Alexandre Castanheira](https://github.com/AlexandreCasta/jogo-numero-secreto/blob/main/Ale_Lab.jpg)  
+[Alexandre Castanheira](https://github.com/AlexandreCasta)
+
